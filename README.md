@@ -10,4 +10,5 @@
 <h2> General Details </h2>
 
 * [Discord](https://discord.gg/HQgJ33V) Channel
-* [Presentation](https://docs.google.com/presentation/d/1Oc35o-0rFFNcHNQpcpSkyLC8sVThGbBzQxNiRMVz2Oc/edit#slide=id.p19)
+* [Slack]( https://tinyurl.com/slack-ccai-hack)
+* [General Presentation](https://docs.google.com/presentation/d/1Oc35o-0rFFNcHNQpcpSkyLC8sVThGbBzQxNiRMVz2Oc/edit#slide=id.p19)
