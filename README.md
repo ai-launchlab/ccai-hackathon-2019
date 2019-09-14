@@ -7,5 +7,7 @@
 4. [Clime Canada Open Data Challenge](https://github.com/ai-launchlab/ccai-hackathon-2019/blob/master/climate-canada-open-data-challenge.md)
 
 
+<h2> General Details </h2>
 
-[Discord](https://discord.gg/HQgJ33V) Channel
+* [Discord](https://discord.gg/HQgJ33V) Channel
+* [Presentation](https://docs.google.com/presentation/d/1Oc35o-0rFFNcHNQpcpSkyLC8sVThGbBzQxNiRMVz2Oc/edit#slide=id.p19)
